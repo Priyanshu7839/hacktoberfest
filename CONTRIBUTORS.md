@@ -1,3 +1,8 @@
+#### Name: [Priyanshu Jaiswal](https://github.com/Priyanshu7839/Priyanshu7839.git)
+- Place: Jhansi ,India
+- Bio: Third year Computer Science Student, knows C++ and graps a command on Frontend.
+- GitHub: [Prianshu-Jaiswal](https://github.com/Priyanshu7839)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
